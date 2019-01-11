@@ -1,0 +1,7 @@
+D:\BrainFxxkRun\BrainfxxkRunner\bin\Debug\BrainfxxkRunner.exe.config
+D:\BrainFxxkRun\BrainfxxkRunner\bin\Debug\BrainfxxkRunner.exe
+D:\BrainFxxkRun\BrainfxxkRunner\bin\Debug\BrainfxxkRunner.pdb
+D:\BrainFxxkRun\BrainfxxkRunner\obj\Debug\BrainfxxkRunner.csprojAssemblyReference.cache
+D:\BrainFxxkRun\BrainfxxkRunner\obj\Debug\BrainfxxkRunner.csproj.CoreCompileInputs.cache
+D:\BrainFxxkRun\BrainfxxkRunner\obj\Debug\BrainfxxkRunner.exe
+D:\BrainFxxkRun\BrainfxxkRunner\obj\Debug\BrainfxxkRunner.pdb
